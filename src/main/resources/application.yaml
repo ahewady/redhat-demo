@@ -2,4 +2,4 @@ spring.profiles.active: development
 message: hello default
 ---
 spring.profiles: development
-message: hello development
+message: hello test
