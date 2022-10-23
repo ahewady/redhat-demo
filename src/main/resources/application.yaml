@@ -2,4 +2,4 @@ spring.profiles.active: development
 message: hello default
 ---
 spring.profiles: development
-message: Hello This is Ahmed Hewady I am interviewing for Solution Architect Positiona at Red Hat, Fingers crossed I get it..
+message: Hello This is Ahmed Hewady I am interviewing for Solution Architect Position at Red Hat, Fingers crossed I get it..
