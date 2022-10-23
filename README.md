@@ -7,7 +7,7 @@ This is a very basic Spring Hello World application that serves the value of the
 Clone the repo down locally:
 
 ```console
-git clone https://github.com/paulczar/spring-helloworld.git
+git clone https://github.com/ahewady/redhat-demo.git
 cd spring-hello-world
 ```
 
