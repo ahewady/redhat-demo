@@ -2,4 +2,4 @@ spring.profiles.active: development
 message: hello default
 ---
 spring.profiles: development
-message: Hello Panel.
+message: Hello Hope you liked my demo
